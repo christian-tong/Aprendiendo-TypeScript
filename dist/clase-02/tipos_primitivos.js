@@ -93,5 +93,4 @@ var infoCursos = ["typescript", 100];
 infoCursos = ["Angular", 200];
 var cursos = ["typescript", 150, "15/03/2020"];
 console.log("Cursos : ", cursos);
-console.log("Fecha de curso : ", cursos[2]); // EL ELEMENTO EN LA POSICION DE LA TUPLA
-console.log(`El curso de ${cursos[0]} tiene ${cursos[1]} alumnos inscritos y empieza el ${cursos[2]}`)
+console.log("Fecha de curso : ", cursos[2]);
